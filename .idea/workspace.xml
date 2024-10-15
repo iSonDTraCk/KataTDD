@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e525f544-74da-445a-a71d-3aad159324ed" name="Changes" comment="Caso 1: Calcular el promedio con conjunto vacío (Rojo)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e525f544-74da-445a-a71d-3aad159324ed" name="Changes" comment="Caso 2: Calcular el promedio con conjunto vacío (Verde)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="David &lt;73234956@continental.edu.pe&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -125,13 +128,47 @@
       <option name="project" value="LOCAL" />
       <updated>1729027106650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Caso 2: Calcular el promedio con conjunto vacío (Verde)">
+      <option name="closed" value="true" />
+      <created>1729027239127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027239127</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Caso 2: Calcular el promedio con conjunto vacío (Verde)">
+      <option name="closed" value="true" />
+      <created>1729027357665</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027357665</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Caso 2: Calcular el promedio con conjunto vacío (Verde)">
+      <option name="closed" value="true" />
+      <created>1729027408748</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027408748</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Caso 2: Calcular el promedio con conjunto vacío (Verde)">
+      <option name="closed" value="true" />
+      <created>1729027513832</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027513832</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configuración inicial del proyecto KataTDD" />
     <MESSAGE value="Creando el esqueleto de las clases Conjunto y TestConjunto" />
     <MESSAGE value="Caso 1: Calcular el promedio con conjunto vacío (Rojo)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso 1: Calcular el promedio con conjunto vacío (Rojo)" />
+    <MESSAGE value="Caso 2: Calcular el promedio con conjunto vacío (Rojo)" />
+    <MESSAGE value="Caso 2: Calcular el promedio con conjunto vacío (Verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 2: Calcular el promedio con conjunto vacío (Verde)" />
   </component>
 </project>
